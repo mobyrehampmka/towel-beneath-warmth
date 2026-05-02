@@ -1,5 +1,5 @@
 [versions]
-lodge = "2.0.1"
+lodge = "3.4.3"
 honey = "3.3.2"
 
 [libraries]
